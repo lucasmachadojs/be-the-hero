@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Be The Hero é uma aplicação da 11º Semana Omnistack da RocketSeat, essa idéia do projeto consiste em unir pessoas que tenham vontade de ajudar umas as outras de forma monetária, ou melhor dizendo, as ONGs.
+Aplicação do WorkshopDev chamada "Casa Criativa", tem em objetivo unir suas ideias em um único só lugar, você pode adicionar passa-tempos, tarefas e cursos que pretende fazer nessa crise.
 <br><br>
 ![projeto](https://user-images.githubusercontent.com/56271517/77834268-3ded2580-7122-11ea-8b53-658cd339da17.png)
 <br><br>
@@ -60,9 +60,9 @@ Para iniciar o projeto no modo Desenvolvedor, você deve instalar ou o Expo para
 
 #### Clonando o repositório
 ```
-$ git clone https://github.com/Monsterleds/Be-The-Hero
+$ git clone https://github.com/lucasmch/be-the-hero
 
-$ cd Be-The-Hero
+$ cd be-the-hero
 ```
 
 #### Instalando as dependências do Back-end
